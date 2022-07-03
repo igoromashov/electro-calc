@@ -1,5 +1,5 @@
 <h3>Калькулятор для расчёта параметров эл. линии.<h3>
-<h3><a href="https://igoromashov.github.io/electro-calc/">Запустить</a><h3>
+<h3><a href="https://igoromashov.github.io/electro-calc/index.html">Запустить</a><h3>
 
 <h3>Дисклеймер:</h3>
   Это мой первый учебный проект.<br>
